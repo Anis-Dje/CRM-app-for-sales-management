@@ -1,0 +1,19 @@
+{
+    "name": "anis/ppd",
+    "description": "tech store",
+    "type": "project",
+    "autoload": {
+      "psr-4": {
+        "Anis\\Ppd\\": "src/"
+      }
+    },
+    "authors": [
+      {
+        "name": "Anis-Dje",
+        "email": "anisleprince2005@gmail.com"
+      }
+    ],
+    "require": {
+      "phpmailer/phpmailer": "^6.10"
+    }
+  }
